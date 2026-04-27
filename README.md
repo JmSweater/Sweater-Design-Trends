@@ -11,17 +11,11 @@ Our goal: *Helping brands navigate the intersection of contemporary design and t
 ### 🔮 Seasonal Forecasts & Design Briefs
 
 These documents detail our insights into the future of knitwear. Click below to explore our trend analysis:
-
-#### 1. Seasonal Collections
 * **[Decoding 2026 Knitwear Trends](./2026-knitwear-trends.md)** Exploration of minimalism and organic textures defining the upcoming knitwear seasons.
 * **[Summer Knitwear Material Evolution](./summer-cotton-knitwear.md)** Moving beyond basic cotton: exploring high-twist yarns and breathable structures for summer.
 * **[Summer Engineering 2026](./summer-engineering-2026.md)** Technical insights into creating lightweight, open-stitch structures for warm-weather collections.
-#### 2. Structural & Stitch Innovation
 * **[Recycled Cashmere Trends](./recycled-cashmere-standards.md)** Why sustainable, GRS-certified cashmere is becoming the standard for luxury brand aesthetics.
 * **[Brand Positioning & Gauge Guide](./brand-positioning-gauge-guide.md)** A strategic map to choosing the right knitting gauge based on your brand's market level.
-
-#### 3. Color & Material Aesthetics
-
 ---
 
 ### 🎨 From Concept to Sample
