@@ -15,6 +15,7 @@ These documents detail our insights into the future of knitwear. Click below to 
 #### 1. Seasonal Collections
 * **[Decoding 2026 Knitwear Trends](./2026-knitwear-trends.md)** Exploration of minimalism and organic textures defining the upcoming knitwear seasons.
 * **[Summer Knitwear Material Evolution](./summer-cotton-knitwear.md)** Moving beyond basic cotton: exploring high-twist yarns and breathable structures for summer.
+* **[Summer Engineering 2026](./summer-engineering-2026.md)** Technical insights into creating lightweight, open-stitch structures for warm-weather collections.
 #### 2. Structural & Stitch Innovation
 
 
