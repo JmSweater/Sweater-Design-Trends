@@ -17,7 +17,7 @@ These documents detail our insights into the future of knitwear. Click below to 
 * **[Summer Knitwear Material Evolution](./summer-cotton-knitwear.md)** Moving beyond basic cotton: exploring high-twist yarns and breathable structures for summer.
 * **[Summer Engineering 2026](./summer-engineering-2026.md)** Technical insights into creating lightweight, open-stitch structures for warm-weather collections.
 #### 2. Structural & Stitch Innovation
-
+* **[Recycled Cashmere Trends](./recycled-cashmere-standards.md)** Why sustainable, GRS-certified cashmere is becoming the standard for luxury brand aesthetics.
 
 #### 3. Color & Material Aesthetics
 
