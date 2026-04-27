@@ -13,8 +13,8 @@ Our goal: *Helping brands navigate the intersection of contemporary design and t
 These documents detail our insights into the future of knitwear. Click below to explore our trend analysis:
 
 #### 1. Seasonal Collections
-* [Decoding 2026 Knitwear Trends](./2026-knitwear-trends.md) Exploration of minimalism and organic textures defining the upcoming knitwear seasons.
-
+* **[Decoding 2026 Knitwear Trends](./2026-knitwear-trends.md)** Exploration of minimalism and organic textures defining the upcoming knitwear seasons.
+* **[Summer Knitwear Material Evolution](./summer-cotton-knitwear.md)** Moving beyond basic cotton: exploring high-twist yarns and breathable structures for summer.
 #### 2. Structural & Stitch Innovation
 
 
