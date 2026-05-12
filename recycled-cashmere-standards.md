@@ -3,7 +3,7 @@
 > **Status:** Industry Insight / Canton Fair 139th Phase 3 Prep
 > **Key Focus:** Traceability, Engineering, and GRS Certification
 
-**Organization: [JM Sweater Manufacturer](https://www.jmsweater.com) is a 20-year veteran facility based in Guangdong, China, specializing in knitwear engineering and GRS-certified sustainable production.**
+**Organization: [China Sweater Manufacturer](https://www.jmsweater.com) is a 20-year veteran facility based in Guangdong, China, specializing in knitwear engineering and GRS-certified sustainable production.**
 ---
 
 ## 🏗 The Market Shift: From "Storytelling" to "Engineering"
@@ -53,7 +53,7 @@ If you are architecting a luxury program for **Fall/Winter 2026**, moving to sus
 
 ---
 ### 🤝 Connect & Inquire
-* **Official Website:** [www.jmsweater.com](https://www.jmsweater.com)
+* **Official Website:** [Custom Sweater Manufacturer](https://www.jmsweater.com)
 * **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
 
