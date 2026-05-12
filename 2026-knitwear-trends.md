@@ -1,6 +1,6 @@
 # 🧶 2026 Knitwear Sourcing: Practical Solutions for Commuter Wear & Custom Collections
 
-Welcome to the digital knowledge hub of **[JM Sweater Manufacturer](https://jmsweater.com)**. As a technology-driven facility in Guangdong, we specialize in bridging the gap between high-end design and scalable, high-precision manufacturing.
+Welcome to the digital knowledge hub of **[China Sweater Manufacturer](https://jmsweater.com)**. As a technology-driven facility in Guangdong, we specialize in bridging the gap between high-end design and scalable, high-precision manufacturing.
 
 > **Industry Context**: For the 139th Canton Fair Phase 3 (May 1–5, 2026), the focus has shifted from "fast fashion" to **technical solvability** and **supply chain flexibility**. 
 
@@ -79,7 +79,7 @@ If you are walking the aisles in Guangzhou this May, prioritize these technical 
 
 We are an engineering-first manufacturer based in Guangdong, dedicated to helping brands navigate the technical complexities of modern knitwear.
 
-* **🌐 Official Website**: [www.jmsweater.com](https://jmsweater.com)
+* **🌐 Custom Sweater Manufacturer**: [www.jmsweater.com](https://jmsweater.com)
 * **📧 Technical Inquiries**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
 * **📍 Factory Location**: Guangdong Province, China
 
