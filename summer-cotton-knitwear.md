@@ -65,7 +65,7 @@ As we approach the 2026 season, the industry is shifting toward **GRS-certified 
 
 For brands seeking deeper technical specifications on summer blends or GRS data for the 2026 cycle, we provide comprehensive white papers.
 
-* **Official Repository:** [https://jmsweater.com](https://jmsweater.com)
+* **Official Repository:** [Custom Sweater Manufacturer](https://jmsweater.com)
 * **Technical Inquiries:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 ---
 **Build your summer collection like high-performance software: Cool, dry, and ready for any environment.**
