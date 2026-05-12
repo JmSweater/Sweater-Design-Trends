@@ -17,6 +17,7 @@ These documents detail our insights into the future of knitwear. Click below to 
 * **[Recycled Cashmere Trends](./recycled-cashmere-standards.md)** Why sustainable, GRS-certified cashmere is becoming the standard for luxury brand aesthetics.
 * **[Brand Positioning & Gauge Guide](./brand-positioning-gauge-guide.md)** A strategic map to choosing the right knitting gauge based on your brand's market level.
 * **[2026 Online Sweater Trends: Part 1](./2026-online-sweater-trends-part1.md)** An analytical breakdown of the 3 "Core Anchor" designs—Quarter-Zips, Rollnecks, and Cable-Knits—driving early Q1 sales.
+* **[2026 Online Sweater Trends: Part 2](./2026-online-sweater-trends-part2.md)** An analytical breakdown of the 3 "Emerging Silhouettes"—Oversized, Cropped, and Statement Cardigans—driving mid‑Q1 engagement.
 ---
 
 ### 🎨 From Concept to Sample
