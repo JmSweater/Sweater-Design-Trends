@@ -49,7 +49,7 @@ We have compiled the **"2026 Summer Knitwear Technical White Paper"** for indust
 * **GRS Wash-Test Benchmarks:** Performance data on recycled fibers.
 
 ### **How to Access:**
-* **Visit the Technical Hub:** [https://jmsweater.com](https://jmsweater.com)
+* **Visit the Technical Hub:** [Custom Sweater Manufacturer](https://jmsweater.com)
 * **Direct Inquiry:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 * **Issue Tracking:** Drop a comment with **"18GG"** and I will send the technical PDF directly to your inbox.
 
