@@ -1,6 +1,6 @@
 # Sweater Design Trends & Aesthetic Research 🎨
 
-Welcome to the [**JM Sweater**](https://jmsweater.com) Design & Trend Lab.
+Welcome to the [**China Sweater Manufacturer**](https://jmsweater.com) Design & Trend Lab.
 
 In the fast-evolving knitwear industry, staying ahead of aesthetic shifts is only half the battle; the other half is understanding how to execute those trends with technical precision. This repository curates our research on global knitwear silhouettes, stitch patterns, and seasonal palettes, filtered through the lens of high-gauge manufacturing.
 
@@ -43,7 +43,7 @@ We are currently presenting our **Spring/Summer 2026 Design Prototypes** at:
 ### 🔗 Connect for Design Collaboration
 Ready to build your next collection? Let’s discuss the technical execution of your designs:
 
-* **Official Website:** [jmsweater.com](https://jmsweater.com)
+* **China Sweater Manufacturer:** [jmsweater.com](https://jmsweater.com)
 * **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 * **Corporate Profile:** [Back to JmSweater Main Profile](https://github.com/JmSweater)
 
