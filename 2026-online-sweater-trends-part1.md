@@ -71,6 +71,6 @@ We specialize in helping e-commerce operations and cross-border brands scale thr
 
 ### 📧 Get in Touch
 *   **Business Inquiries:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
-*   **Official Website:** [JMSweater](https://jmsweater.com)
+*   **Official Website:** [Custom Sweater Manufacturer](https://jmsweater.com)
 
 *Disclaimer: This data is for market research purposes for cross-border e-commerce sellers and brand owners.*
