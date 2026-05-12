@@ -55,4 +55,4 @@ We provide manufacturing solutions that bridge the gap between technical constra
 * **139th Canton Fair (Phase 3):** May 1–5, 2026 (Guangzhou)
 
 ---
-*Technical Document maintained by [JM Sweater](https://jmsweater.com). All rights reserved.*
+*Technical Document maintained by [China Sweater Manufacturer](https://jmsweater.com). All rights reserved.*
