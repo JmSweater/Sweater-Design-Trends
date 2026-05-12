@@ -53,7 +53,7 @@ If you are architecting a luxury program for **Fall/Winter 2026**, moving to sus
 
 ---
 ### 🤝 Connect & Inquire
-* **Official Website:** [Custom Sweater Manufacturer](https://www.jmsweater.com)
+* **Official Website:** [Custom Sweater Manufacturer](https://jmsweater.com)
 * **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 
 
