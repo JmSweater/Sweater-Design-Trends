@@ -16,7 +16,7 @@ The rule: High-density knits (Fine-gauge) allow for structural complexity; Low-d
 | **Fine-gauge** | 14G - 18G, Smooth, Dense | Tailored trousers, Pencil skirts | Under-layer: Collared shirt (poplin) |
 | **Chunky/Cable** | 3G - 7G, High-volume, Textured | Slim-fit denim, Leather pants | Inner-layer: Lace-trim cami |
 | **Sheer/Mesh** | Open-stitch, Mohair, Airy | Slip dresses, High-waisted tanks | Contrast: Tonal turtleneck underneath |
-
+<div align="center"><a href="https://jmsweater.com/blog/how-to-style-knitted-tops-texture-fabric-guide/"><img src="https://jmsweater.com/uploads/2026511/2026051115400202202.webp" style="width:400px" alt="Fine‑gauge / flat‑knit / heavier weight (e.g. merino, cashmere) by jmsweater"></a></div>
 ---
 
 ## 📐 2. Neckline & Silhouette Engineering
@@ -36,7 +36,7 @@ Visual balance is achieved through geometric contrast.
 ### 2.3 Oversized / Drop-shoulder
 *   **Execution:** `Relaxed != Messy`.
 *   **Half-Tuck Command:** Tuck the front hem to create an artificial waistline while maintaining the drape.
-
+<div align="center"><a href="https://jmsweater.com/blog/how-to-style-knitted-tops-texture-fabric-guide/"><img src="https://jmsweater.com/uploads/2026511/20260511154223792379.webp" style="width:400px" alt="Chunky / cable / ribbed / open‑stitch knits by jmsweatercom"></a></div>
 ---
 
 ## 🧵 3. Fabric Composition (Material Science)
