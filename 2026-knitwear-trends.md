@@ -79,7 +79,7 @@ If you are walking the aisles in Guangzhou this May, prioritize these technical 
 
 We are an engineering-first manufacturer based in Guangdong, dedicated to helping brands navigate the technical complexities of modern knitwear.
 
-* **🌐 Custom Sweater Manufacturer**: [www.jmsweater.com](https://jmsweater.com)
+* **🌐 Custom Sweater Manufacturer**: [Custom Sweater Manufacturer](https://jmsweater.com)
 * **📧 Technical Inquiries**: [admin@jmsweater.com](mailto:admin@jmsweater.com)
 * **📍 Factory Location**: Guangdong Province, China
 
