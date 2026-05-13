@@ -46,7 +46,7 @@ Before finalizing technical packs (Tech Packs) or requesting RFQs, evaluate thes
 
 We provide manufacturing solutions that bridge the gap between technical constraints and commercial profitability.
 
-* **Website:** [https://jmsweater.com](https://jmsweater.com)
+* **Website:** [China Sweater Factory](https://jmsweater.com)
 * **Email:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
 * **Location:** Guangzhou, China
 
