@@ -18,6 +18,7 @@ These documents detail our insights into the future of knitwear. Click below to 
 * **[Brand Positioning & Gauge Guide](./brand-positioning-gauge-guide.md)** A strategic map to choosing the right knitting gauge based on your brand's market level.
 * **[2026 Online Sweater Trends: Part 1](./2026-online-sweater-trends-part1.md)** An analytical breakdown of the 3 "Core Anchor" designs—Quarter-Zips, Rollnecks, and Cable-Knits—driving early Q1 sales.
 * **[2026 Online Sweater Trends: Part 2](./2026-online-sweater-trends-part2.md)** An analytical breakdown of the 3 "Emerging Silhouettes"—Oversized, Cropped, and Statement Cardigans—driving mid‑Q1 engagement.
+* **[How to Style Your Knitted Tops](./how-to-style-your-knitted-tops-a-professional-guide-to-texture-fit-fabric.md)** This repository outlines the technical logic behind styling knitted tops.
 ---
 
 ### 🎨 From Concept to Sample
