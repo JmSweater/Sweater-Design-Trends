@@ -57,7 +57,7 @@ This document covers the **"Traffic Drivers"** for the Spring 2026 cycle. While 
 We help e-commerce brands navigate the 2026 supply chain with data-driven design and reliable manufacturing.
 
 *   **Sourcing Inquiries:** [admin@jmsweater.com](mailto:admin@jmsweater.com)
-*   **Strategic Insights:** [JMSweater](https://jmsweater.com)
+*   **Strategic Insights:** [China Sweater Manufacturer](https://jmsweater.com)
 
 **Beat the "Sold Out" bottleneck: Lock in your 2026 inventory with a trusted factory early.**
 
