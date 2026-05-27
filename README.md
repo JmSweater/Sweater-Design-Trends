@@ -20,6 +20,7 @@ These documents detail our insights into the future of knitwear. Click below to 
 * **[2026 Online Sweater Trends: Part 2](./2026-online-sweater-trends-part2.md)** An analytical breakdown of the 3 "Emerging Silhouettes"—Oversized, Cropped, and Statement Cardigans—driving mid‑Q1 engagement.
 * **[How to Style Your Knitted Tops](./how-to-style-your-knitted-tops-a-professional-guide-to-texture-fit-fabric.md)** This repository outlines the technical logic behind styling knitted tops.
 * **[Why Versatility Is The New Luxury For 2026](./why-versatility-is-the-new-luxury-for-2026.md)** This repository translates technical knitwear specs into Consumer Scenarios.
+* **[2026 Mens Sweater Styles of The Year](./2026-mens-sweater-styles-of-the-year)** This is a technical blueprint for defining seasonal trends and showcasing timeless menswear classics. The document details the structural engineering, pattern-making mathematics, and fabric specifications of this black, full-zip knit jacket.
 ---
 
 ### 🎨 From Concept to Sample
